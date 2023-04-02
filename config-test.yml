@@ -1,2 +1,4 @@
 aa: 12345
 aa1: 12345
+config: 
+  info: this is config info
